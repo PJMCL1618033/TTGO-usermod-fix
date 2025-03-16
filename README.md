@@ -29,6 +29,6 @@ Compiling Procedure
 CONNECTING TO TTGO from WEB
 1.  Wait for TTGO display to display an IP:4.3.2.1 
 2. From a Smart Phone use WIFI to connect to WLED-AP and then sign in
-3. From WLED congig goto WiFi Setp 
+3. From WLED config goto WiFi Setp 
 4. Replace SSID and Network password with your system credentials
 5. New IP for your network will display on TTGO screen
