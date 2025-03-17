@@ -42,7 +42,7 @@ CONNECTING
 4. Replace SSID and Network password with your system credentials
 5. New IP for your network will display on TTGO screen
 
-Pin 12 is the IO that is the DATA pin the the WS2812 leds.
+Pin 12 is the  DATA out to the WS2812 leds.
 
 
 
